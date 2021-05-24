@@ -1,0 +1,58 @@
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\appsettings.Development.json
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\appsettings.json
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\TConverter.exe
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\TConverter.deps.json
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\TConverter.runtimeconfig.json
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\TConverter.runtimeconfig.dev.json
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\TConverter.dll
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\ref\TConverter.dll
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\TConverter.pdb
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.csprojAssemblyReference.cache
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.AssemblyInfoInputs.cache
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.AssemblyInfo.cs
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.csproj.CoreCompileInputs.cache
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\staticwebassets\TConverter.StaticWebAssets.Manifest.cache
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\staticwebassets\TConverter.StaticWebAssets.xml
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\scopedcss\bundle\TConverter.styles.css
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.RazorTargetAssemblyInfo.cache
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.csproj.CopyComplete
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.dll
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\ref\TConverter.dll
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.pdb
+D:\Projects\Akka Project\Github Tests\Attempt01\temperatureConverter-master\TConverter\obj\Debug\net5.0\TConverter.genruntimeconfig.cache
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\appsettings.Development.json
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\appsettings.json
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\TConverter.exe
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\TConverter.deps.json
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\TConverter.runtimeconfig.json
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\TConverter.runtimeconfig.dev.json
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\TConverter.dll
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\ref\TConverter.dll
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\TConverter.pdb
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.csprojAssemblyReference.cache
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.GeneratedMSBuildEditorConfig.editorconfig
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.AssemblyInfoInputs.cache
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.AssemblyInfo.cs
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.csproj.CoreCompileInputs.cache
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.MvcApplicationPartsAssemblyInfo.cs
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.MvcApplicationPartsAssemblyInfo.cache
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\staticwebassets\TConverter.StaticWebAssets.Manifest.cache
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\staticwebassets\TConverter.StaticWebAssets.xml
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\scopedcss\bundle\TConverter.styles.css
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.RazorTargetAssemblyInfo.cache
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.csproj.CopyComplete
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.dll
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\ref\TConverter.dll
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.pdb
+F:\e-voteingApp\tmp_convt\TemperatureConverter\TConverter\obj\Debug\net5.0\TConverter.genruntimeconfig.cache
